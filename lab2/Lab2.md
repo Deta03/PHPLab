@@ -5,7 +5,7 @@
 - Запустил Apache через XAMPP Control Panel
 - Проверил сервер: **http://localhost** → страница XAMPP отображается
 
-### Шаг 3: Первая PHP-программа
+### Шаг 2: Первая PHP-программа
 Создал проект в `C:\xampp\htdocs\lab2`:
 
 ```php
@@ -20,7 +20,7 @@ php -S localhost:8000
 ```
 В браузере http://localhost:8000 отображается: **Привет, мир!**
 
-### Шаг 4: Вывод данных
+### Шаг 3: Вывод данных
 Создал файл `output.php`:
 
 ```php
@@ -36,7 +36,7 @@ Hello, World with echo!
 Hello, World with print!
 ```
 
-### Шаг 5: Переменные и вывод
+### Шаг 4: Переменные и вывод
 Файл `variables.php`:
 
 ```php
